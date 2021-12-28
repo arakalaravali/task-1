@@ -1,0 +1,16 @@
+2Q)Write a blog on Difference between HTTP1.1 vs HTTP2?
+code/ans-
+The difference between http1.1 and http2
+
+http1.1:-It is a standardised protocol and it served upto 15 years of extensions and the contents of each stream are HTTP 1.1 requests and responses, just encoded and packed up differently.also it will connect 6 tcp connections at a time.
+
+HTTP2:-
+HTTP 2.0 is a binary protocol with greater performance that multiplexes numerous streams going over a single  TCP connection.Also it  adds a number of features to manage the streams, but leaves old untouched.
+
+
+3Q)Write a blog about objects and its internal representation in Javascript?
+code/ans-
+Objects are collection of related data and each object may contain a combination of primitive data-types as well as reference data-types.
+An object is a reference data type. Variables that are assigned a reference value are given a reference or a pointer to that value. That reference or pointer points to the location in memory where the object is stored. The variables don’t actually store the value.
+
+It is represented in the form of “key: value” pairs. These keys can be variables or functions and are called properties and methods, respectively, in the context of an object.An object can be created with brackets () with an optional list of properties. A property is a “key: value” pair, where a key is the property name value can be anything.
